@@ -1,0 +1,4 @@
+------ A test that include Chinese characteristic to check if they can be displayed normaly on github ------
+
+一个测试
+a test
